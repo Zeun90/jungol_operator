@@ -1,3 +1,5 @@
+package SelfAssessment;
+
 import java.util.Scanner;
 
 public class Q1 {
@@ -26,7 +28,7 @@ public class Q1 {
 //import java.io.IOException;
 //import java.io.InputStreamReader;
 //
-//public class Q1 {
+//public class SelfAssessment.Q1 {
 //    public static void main(String[] args) throws IOException {
 //
 //        // 3개의 정수 입력
